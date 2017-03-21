@@ -1,5 +1,5 @@
 # Win-sudo
-Emulated sudo command to elevate (Run As Administrator) cmd and or applications through UAC.
+Emulated sudo command to elevate (Run As Administrator) cmd and or applications via UAC.
 ## How To Use
 Simply download and place `sudo.bat` into your `system32` folder.
 
